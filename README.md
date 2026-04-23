@@ -19,7 +19,7 @@ My approach combines analytical thinking, adaptability, and thoughtful problem-s
   │                                │                                │
   └─ Supply Chain Coordinator II    └─ Started Cyber Security       └─ Transitioned to Security
      (May 2019 - May 2025)             Degree Program                 & Data Analysis Focus
-     4+ Years Experience               (2021 - Present)               Currently Pursuing:
+     4+ Years Experience               (2021 - 2026)               Currently Pursuing:
      Defense & Aerospace               Bachelor's & Master's          BS/MS in Cyber Security
      Operations                        Technology Engineering         Technology Engineering
 ```

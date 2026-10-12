@@ -2,7 +2,7 @@
 
 I'm a former **Supply Chain Coordinator II** with **4+ years of experience** supporting defense and aerospace operations, now transitioning into **cybersecurity and data analysis**. 
 
-Currently pursuing my **Bachelor's and Master's degrees in Cyber Security Technology Engineering**, combining hands-on industry experience with formal academic training.
+Currently pursuing my **Master's degrees in Cyber Security Technology Engineering**, combining hands-on industry experience with formal academic training.
 
 My approach combines analytical thinking, adaptability, and thoughtful problem-solving to tackle technical challenges with both structure and perspective. I'm passionate about:
 
